@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # test for github
-
+#よくわかんない
 import numpy as np
 
 class test:
