@@ -2,6 +2,7 @@
 
 # test for github
 #helloworldS
+#コメント入れた 20160403 D.Mita
 import numpy as np
 
 class test:
