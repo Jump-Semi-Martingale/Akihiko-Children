@@ -14,7 +14,7 @@ class test:
         self.v = v
         self.T = T
         self.opttype = opt_type
-        
+
     def BS(self):
         S = self.S
         K = self.K
@@ -22,7 +22,7 @@ class test:
         v = self.v
         T = self.T
         opttype = self.opttype
-        
+
         d1 = (np.log(S/K) + (r + (v*v*0.5))*T) / (v * np.sqrt(T))
         d2 = d1 - v * np.sqrt(T)
 
